@@ -1,0 +1,6 @@
+{
+  "name": "VarshaRakshak - Heavy Rainfall & Inundation Early Warning",
+  "description": "AI/ML-based integrated heavy rainfall early warning and inundation prediction system for flood-prone Indian cities (SIH 2026, PS 26071, MoES / IMD).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
